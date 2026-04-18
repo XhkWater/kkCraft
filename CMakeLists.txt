@@ -31,16 +31,19 @@ if(NOT GLSLC_EXECUTABLE)
   message(FATAL_ERROR "glslc not found. Please install Vulkan SDK and ensure glslc is available.")
 endif()
 
-set(SHADER_SOURCE_DIR "${CMAKE_SOURCE_DIR}/shaders")
+set(ASSETS_SOURCE_DIR "${CMAKE_SOURCE_DIR}/assets")
+set(ASSETS_BINARY_DIR "${CMAKE_BINARY_DIR}/assets")
+set(SHADER_SOURCE_DIR "${ASSETS_SOURCE_DIR}/shaders")
+set(SHADER_WORK_DIR "${ASSETS_BINARY_DIR}/shaders")
 set(SHADER_BINARY_DIR "${CMAKE_BINARY_DIR}/shaders")
 file(MAKE_DIRECTORY "${SHADER_BINARY_DIR}")
 
-# Keep a mirrored shader source folder in build/.
-add_custom_target(copy_shaders ALL
+# Copy the full assets folder into the build output.
+add_custom_target(copy_assets ALL
   COMMAND ${CMAKE_COMMAND} -E copy_directory
-          "${SHADER_SOURCE_DIR}"
-          "${SHADER_BINARY_DIR}"
-  COMMENT "Copying shaders to build directory"
+          "${ASSETS_SOURCE_DIR}"
+          "${ASSETS_BINARY_DIR}"
+  COMMENT "Copying assets to build directory"
 )
 
 set(SHADER_SOURCES
@@ -54,8 +57,8 @@ foreach(SHADER ${SHADER_SOURCES})
   set(SHADER_OUTPUT "${SHADER_BINARY_DIR}/${SHADER_FILE_NAME}.spv")
   add_custom_command(
     OUTPUT "${SHADER_OUTPUT}"
-    COMMAND "${GLSLC_EXECUTABLE}" "${SHADER_BINARY_DIR}/${SHADER_FILE_NAME}" -o "${SHADER_OUTPUT}"
-    DEPENDS copy_shaders "${SHADER}"
+    COMMAND "${GLSLC_EXECUTABLE}" "${SHADER_WORK_DIR}/${SHADER_FILE_NAME}" -o "${SHADER_OUTPUT}"
+    DEPENDS copy_assets "${SHADER}"
     COMMENT "Compiling shader ${SHADER_FILE_NAME}"
     VERBATIM
   )

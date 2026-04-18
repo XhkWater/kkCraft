@@ -1,0 +1,11 @@
+================================================================================
+Linker Errors
+Generated: 2026-04-18T13:28:32.871Z
+Total Errors: 2
+================================================================================
+
+[LNK2019] (MSVC)
+无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号 [D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\kkCraft.vcxproj]
+
+[LNK1120] (MSVC)
+1 个无法解析的外部命令 [D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\kkCraft.vcxproj]

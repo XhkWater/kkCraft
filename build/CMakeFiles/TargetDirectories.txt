@@ -1,5 +1,5 @@
 D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/kkCraft.dir
-D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/copy_shaders.dir
+D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/copy_assets.dir
 D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/compile_shaders.dir
 D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/ALL_BUILD.dir
 D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/CMakeFiles/ZERO_CHECK.dir

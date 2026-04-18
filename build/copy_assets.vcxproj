@@ -22,11 +22,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8D7BAC17-5857-34E3-9C66-BE973CBA98E9}</ProjectGuid>
+    <ProjectGuid>{5A761E26-92C3-32F7-92AD-17F04EDA85F3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
-    <ProjectName>compile_shaders</ProjectName>
+    <ProjectName>copy_assets</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -105,10 +105,10 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\7202c7816cdac1f38df821c9cd4c8a34\triangle.frag.spv.rule">
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Compiling shader triangle.frag</Message>
+    <CustomBuild Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\9a9fbe7ac202e6651833de70e8383c3f\copy_assets.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Copying assets to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -116,154 +116,50 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.frag;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Compiling shader triangle.frag</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.frag;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Compiling shader triangle.frag</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.frag;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Compiling shader triangle.frag</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.frag;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
-    </CustomBuild>
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\7202c7816cdac1f38df821c9cd4c8a34\triangle.vert.spv.rule">
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Compiling shader triangle.vert</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.vert;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Compiling shader triangle.vert</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.vert;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Compiling shader triangle.vert</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.vert;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Compiling shader triangle.vert</Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
-if %errorlevel% neq 0 goto :cmEnd
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\assets\shaders\triangle.vert;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv</Outputs>
-      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
-    </CustomBuild>
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\9a9fbe7ac202e6651833de70e8383c3f\compile_shaders.rule">
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"></Message>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-:cmEnd
-endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
-:cmErrorLevel
-exit /b %1
-:cmDone
-if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv;D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\compile_shaders</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\copy_assets</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"></Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Copying assets to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets"
+if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 :cmErrorLevel
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv;D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\compile_shaders</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\copy_assets</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"></Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Copying assets to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets"
+if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 :cmErrorLevel
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv;D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\compile_shaders</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\copy_assets</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"></Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Copying assets to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets"
+if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 :cmErrorLevel
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.vert.spv;D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\shaders\triangle.frag.spv;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\compile_shaders</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\copy_assets</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
@@ -326,7 +222,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <None Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\compile_shaders">
+    <None Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\copy_assets">
     </None>
   </ItemGroup>
   <ItemGroup />
@@ -334,12 +230,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ProjectReference Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\ZERO_CHECK.vcxproj">
       <Project>{9D95CE0E-5210-3218-A155-3969107E31D8}</Project>
       <Name>ZERO_CHECK</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </ProjectReference>
-    <ProjectReference Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\copy_assets.vcxproj">
-      <Project>{5A761E26-92C3-32F7-92AD-17F04EDA85F3}</Project>
-      <Name>copy_assets</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>

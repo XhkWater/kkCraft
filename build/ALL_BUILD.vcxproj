@@ -180,9 +180,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\copy_shaders.vcxproj">
-      <Project>{3CB8F951-4402-33F8-9B69-1D6909D3357D}</Project>
-      <Name>copy_shaders</Name>
+    <ProjectReference Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\copy_assets.vcxproj">
+      <Project>{5A761E26-92C3-32F7-92AD-17F04EDA85F3}</Project>
+      <Name>copy_assets</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>

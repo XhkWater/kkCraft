@@ -108,7 +108,7 @@
     <CustomBuild Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\build\CMakeFiles\9a9fbe7ac202e6651833de70e8383c3f\copy_shaders.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Copying shaders to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -122,7 +122,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Copying shaders to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -136,7 +136,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Copying shaders to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -150,7 +150,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Copying shaders to build directory</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone

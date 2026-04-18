@@ -1,6 +1,6 @@
 ^D:\USERS\XU YAOYAO\DOCUMENTS\C++\VK\KKCRAFT\KKCRAFT\BUILD\CMAKEFILES\7202C7816CDAC1F38DF821C9CD4C8A34\TRIANGLE.FRAG.SPV.RULE
 setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
+D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.frag" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.frag.spv"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -10,7 +10,7 @@ exit /b %1
 if %errorlevel% neq 0 goto :VCEnd
 ^D:\USERS\XU YAOYAO\DOCUMENTS\C++\VK\KKCRAFT\KKCRAFT\BUILD\CMAKEFILES\7202C7816CDAC1F38DF821C9CD4C8A34\TRIANGLE.VERT.SPV.RULE
 setlocal
-D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
+D:\VulkanSDK\1.4.341.1\Bin\glslc.exe "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets/shaders/triangle.vert" -o "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders/triangle.vert.spv"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

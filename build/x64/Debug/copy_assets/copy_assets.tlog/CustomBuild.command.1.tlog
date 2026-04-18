@@ -1,6 +1,6 @@
-^D:\USERS\XU YAOYAO\DOCUMENTS\C++\VK\KKCRAFT\KKCRAFT\BUILD\CMAKEFILES\9A9FBE7AC202E6651833DE70E8383C3F\COPY_SHADERS.RULE
+^D:\USERS\XU YAOYAO\DOCUMENTS\C++\VK\KKCRAFT\KKCRAFT\BUILD\CMAKEFILES\9A9FBE7AC202E6651833DE70E8383C3F\COPY_ASSETS.RULE
 setlocal
-"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets/shaders" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/shaders"
+"D:\Program Files\CMake\bin\cmake.exe" -E copy_directory "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/assets" "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/assets"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

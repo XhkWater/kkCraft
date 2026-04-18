@@ -10,7 +10,7 @@
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="24cc86a6-737a-311c-9899-31b342e240c8" DefaultStartup="true">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 		<BuildDependency Project="compile_shaders.vcxproj"/>
-		<BuildDependency Project="copy_shaders.vcxproj"/>
+		<BuildDependency Project="copy_assets.vcxproj"/>
 		<BuildDependency Project="kkCraft.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
@@ -20,9 +20,9 @@
 	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="9d95ce0e-5210-3218-a155-3969107e31d8"/>
 	<Project Path="compile_shaders.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="8d7bac17-5857-34e3-9c66-be973cba98e9">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
-		<BuildDependency Project="copy_shaders.vcxproj"/>
+		<BuildDependency Project="copy_assets.vcxproj"/>
 	</Project>
-	<Project Path="copy_shaders.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="3cb8f951-4402-33f8-9b69-1d6909d3357d">
+	<Project Path="copy_assets.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="5a761e26-92c3-32f7-92ad-17f04eda85f3">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 	<Project Path="kkCraft.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="5052a883-b780-30d3-b69c-44070ef84a6d">

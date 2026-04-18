@@ -364,6 +364,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppCore.cpp" />
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppData.cpp" />
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppLoop.cpp" />
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppVulkan.cpp" />
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppWindow.cpp" />
     <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\main.cpp" />
   </ItemGroup>
   <ItemGroup />

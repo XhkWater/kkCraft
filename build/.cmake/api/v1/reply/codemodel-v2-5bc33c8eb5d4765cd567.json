@@ -48,7 +48,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-cc70d6feac6529e9e42d.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-084b161128e5cfc71ebc.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -62,21 +62,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "compile_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-compile_shaders-Debug-15a1b08f31f091da404e.json",
+					"jsonFile" : "target-compile_shaders-Debug-3e3bb82fffa4a6736489.json",
 					"name" : "compile_shaders",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "copy_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-copy_shaders-Debug-09ff0393e519f9882aa4.json",
-					"name" : "copy_shaders",
+					"id" : "copy_assets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_assets-Debug-45947efc8486ba017807.json",
+					"name" : "copy_assets",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "kkCraft::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-kkCraft-Debug-60804176df17eae54fbc.json",
+					"jsonFile" : "target-kkCraft-Debug-b30ecafd78bf07edc83d.json",
 					"name" : "kkCraft",
 					"projectIndex" : 0
 				}
@@ -129,7 +129,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-cc70d6feac6529e9e42d.json",
+					"jsonFile" : "target-ALL_BUILD-Release-084b161128e5cfc71ebc.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -143,21 +143,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "compile_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-compile_shaders-Release-15a1b08f31f091da404e.json",
+					"jsonFile" : "target-compile_shaders-Release-3e3bb82fffa4a6736489.json",
 					"name" : "compile_shaders",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "copy_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-copy_shaders-Release-09ff0393e519f9882aa4.json",
-					"name" : "copy_shaders",
+					"id" : "copy_assets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_assets-Release-45947efc8486ba017807.json",
+					"name" : "copy_assets",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "kkCraft::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-kkCraft-Release-5e064c61497476c38aaa.json",
+					"jsonFile" : "target-kkCraft-Release-69f2c102145d2edc33c6.json",
 					"name" : "kkCraft",
 					"projectIndex" : 0
 				}
@@ -210,7 +210,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-cc70d6feac6529e9e42d.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-084b161128e5cfc71ebc.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -224,21 +224,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "compile_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-compile_shaders-MinSizeRel-15a1b08f31f091da404e.json",
+					"jsonFile" : "target-compile_shaders-MinSizeRel-3e3bb82fffa4a6736489.json",
 					"name" : "compile_shaders",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "copy_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-copy_shaders-MinSizeRel-09ff0393e519f9882aa4.json",
-					"name" : "copy_shaders",
+					"id" : "copy_assets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_assets-MinSizeRel-45947efc8486ba017807.json",
+					"name" : "copy_assets",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "kkCraft::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-kkCraft-MinSizeRel-c989c05002f71d128621.json",
+					"jsonFile" : "target-kkCraft-MinSizeRel-9e9ed9cf4465d8802114.json",
 					"name" : "kkCraft",
 					"projectIndex" : 0
 				}
@@ -291,7 +291,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-cc70d6feac6529e9e42d.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-084b161128e5cfc71ebc.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -305,21 +305,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "compile_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-compile_shaders-RelWithDebInfo-15a1b08f31f091da404e.json",
+					"jsonFile" : "target-compile_shaders-RelWithDebInfo-3e3bb82fffa4a6736489.json",
 					"name" : "compile_shaders",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "copy_shaders::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-copy_shaders-RelWithDebInfo-09ff0393e519f9882aa4.json",
-					"name" : "copy_shaders",
+					"id" : "copy_assets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_assets-RelWithDebInfo-45947efc8486ba017807.json",
+					"name" : "copy_assets",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "kkCraft::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-kkCraft-RelWithDebInfo-7c0c9540d2dfd706cf09.json",
+					"jsonFile" : "target-kkCraft-RelWithDebInfo-863444005f6e8e4812d0.json",
 					"name" : "kkCraft",
 					"projectIndex" : 0
 				}
