@@ -1,0 +1,10 @@
+^D:\USERS\XU YAOYAO\DOCUMENTS\C++\VK\KKCRAFT\KKCRAFT\BUILD\CMAKEFILES\9A9FBE7AC202E6651833DE70E8383C3F\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft" "-BD:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Users/XU YAOYAO/Documents/c++/vk/kkCraft/kkCraft/build/kkCraft.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
