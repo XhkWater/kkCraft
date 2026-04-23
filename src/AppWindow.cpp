@@ -1,5 +1,7 @@
 #include "App.h"
 
+#include "Log.h"
+
 #ifdef _WIN32
 #include <dwmapi.h>
 #include <sdl2/SDL_syswm.h>
@@ -34,7 +36,9 @@ static void enableDarkTitleBar(SDL_Window *window) {
 #endif
 
 void App::initWindow() {
+  kk::log_info("initWindow: SDL_Init");
   SDL_Init(SDL_INIT_VIDEO);
+  kk::log_info("initWindow: SDL_CreateWindow");
   window = SDL_CreateWindow("kkCraft", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,
                             800, 600, SDL_WINDOW_VULKAN | SDL_WINDOW_RESIZABLE |
                                           SDL_WINDOW_MAXIMIZED);
@@ -44,6 +48,7 @@ void App::initWindow() {
   }
 #endif
   if (!window) {
+    kk::log_error(std::string("SDL_CreateWindow failed: ") + SDL_GetError());
     throw std::runtime_error("Failed to create SDL window");
   }
 

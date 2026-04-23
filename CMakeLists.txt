@@ -2,16 +2,22 @@ cmake_minimum_required(VERSION 3.20)
 
 project(kkCraft)
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
 
 # libs
 include_directories(D:/VulkanSDK/1.4.341.1/Include)
+include_directories(D:/packs/glaze/Include)
+include_directories(D:/packs/assimp/Include)
+include_directories(D:/packs/stb/Include)
+link_directories(D:/packs/assimp/Lib)
 link_directories(D:/VulkanSDK/1.4.341.1/Lib)
 
 include_directories(D:/sdl/Include)
 link_directories(D:/sdl/Lib)
 
-file(GLOB SOURCES "src/*.cpp")
+file(GLOB SOURCES CONFIGURE_DEPENDS "src/*.cpp")
 
 add_executable(kkCraft 
 ${SOURCES}
@@ -73,6 +79,7 @@ target_compile_definitions(kkCraft PRIVATE SHADER_DIR="${SHADER_BINARY_DIR}")
 target_link_libraries(kkCraft PRIVATE
 vulkan-1.lib
 SDL2.lib
+assimp-vc145-mt.lib
 )
 
 if (WIN32)

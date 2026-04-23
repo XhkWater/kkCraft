@@ -1,0 +1,27 @@
+{
+    "texturepack": "normal",
+    "entitytypes": [
+        {
+            "type": "block",
+            "model": "cube.fbx",
+            "texture": "cube.png"
+        }
+    ],
+
+    "world": {
+        "blocks": [
+            {
+                "type": "block",
+                "position": [0, 0, 0],
+                "nbt": {
+                }
+            },
+            {
+                "type": "block",
+                "position": [2, 0, 0],
+                "nbt": {
+                }
+            }
+        ]
+    }
+}

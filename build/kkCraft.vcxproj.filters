@@ -4,9 +4,6 @@
     <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppCore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppData.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppLoop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -14,6 +11,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\AppWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="D:\Users\XU YAOYAO\Documents\c++\vk\kkCraft\kkCraft\src\main.cpp">

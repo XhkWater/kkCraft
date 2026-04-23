@@ -1,0 +1,341 @@
+[2026-04-22 18:07:13][INFO] kkCraft starting
+[2026-04-22 18:07:13][INFO] App::App begin
+[2026-04-22 18:07:13][INFO] initWindow: SDL_Init
+[2026-04-22 18:07:14][INFO] initWindow: SDL_CreateWindow
+[2026-04-22 18:07:14][INFO] initWindow ok
+[2026-04-22 18:07:14][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-22 18:07:14][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-22 18:07:14][ERROR] Fatal exception: Failed to parse world json
+[2026-04-22 18:07:30][INFO] kkCraft starting
+[2026-04-22 18:07:30][INFO] App::App begin
+[2026-04-22 18:07:30][INFO] initWindow: SDL_Init
+[2026-04-22 18:07:30][INFO] initWindow: SDL_CreateWindow
+[2026-04-22 18:07:30][INFO] initWindow ok
+[2026-04-22 18:07:30][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-22 18:07:30][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-22 18:07:30][ERROR] Fatal exception: Failed to parse world json
+[2026-04-23 17:26:19][INFO] kkCraft starting
+[2026-04-23 17:26:19][INFO] App::App begin
+[2026-04-23 17:26:19][INFO] initWindow: SDL_Init
+[2026-04-23 17:26:19][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:26:19][INFO] initWindow ok
+[2026-04-23 17:26:19][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:26:19][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:26:19][ERROR] Fatal exception: Failed to parse world json
+[2026-04-23 17:30:24][INFO] kkCraft starting
+[2026-04-23 17:30:24][INFO] App::App begin
+[2026-04-23 17:30:24][INFO] initWindow: SDL_Init
+[2026-04-23 17:30:24][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:30:25][INFO] initWindow ok
+[2026-04-23 17:30:25][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:30:25][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:30:25][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 17:30:25][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 17:30:25][INFO] loadWorldData ok
+[2026-04-23 17:30:25][INFO] Vulkan: createInstance
+[2026-04-23 17:30:25][INFO] Vulkan: createSurface
+[2026-04-23 17:30:25][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 17:30:25][INFO] Vulkan: createLogicalDevice
+[2026-04-23 17:30:25][INFO] Vulkan: createSwapchain
+[2026-04-23 17:30:25][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:30:25][INFO] initVulkan ok
+[2026-04-23 17:30:25][INFO] Vulkan: createSwapchain
+[2026-04-23 17:30:25][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:39:33][INFO] kkCraft starting
+[2026-04-23 17:39:33][INFO] App::App begin
+[2026-04-23 17:39:33][INFO] initWindow: SDL_Init
+[2026-04-23 17:39:33][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:39:33][INFO] initWindow ok
+[2026-04-23 17:39:33][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:39:33][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:39:33][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 17:39:33][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 17:39:33][INFO] loadWorldData ok
+[2026-04-23 17:39:33][INFO] Vulkan: initVulkan
+[2026-04-23 17:39:33][INFO] Vulkan: createInstance
+[2026-04-23 17:39:33][INFO] Vulkan: createSurface
+[2026-04-23 17:39:33][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 17:39:33][INFO] Vulkan: createLogicalDevice
+[2026-04-23 17:39:33][INFO] Vulkan: createSwapchain
+[2026-04-23 17:39:33][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:39:33][INFO] initVulkan ok
+[2026-04-23 17:40:14][INFO] kkCraft starting
+[2026-04-23 17:40:14][INFO] App::App begin
+[2026-04-23 17:40:14][INFO] initWindow: SDL_Init
+[2026-04-23 17:40:14][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:40:14][INFO] initWindow ok
+[2026-04-23 17:40:14][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:40:14][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:40:14][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 17:40:14][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 17:40:14][INFO] loadWorldData ok
+[2026-04-23 17:40:14][INFO] Vulkan: initVulkan
+[2026-04-23 17:40:14][INFO] Vulkan: createInstance
+[2026-04-23 17:40:14][INFO] Vulkan: createSurface
+[2026-04-23 17:40:14][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 17:40:14][INFO] Vulkan: createLogicalDevice
+[2026-04-23 17:40:14][INFO] Vulkan: createSwapchain
+[2026-04-23 17:40:14][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:40:14][INFO] initVulkan ok
+[2026-04-23 17:41:24][INFO] kkCraft starting
+[2026-04-23 17:41:24][INFO] App::App begin
+[2026-04-23 17:41:24][INFO] initWindow: SDL_Init
+[2026-04-23 17:41:24][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:41:24][INFO] initWindow ok
+[2026-04-23 17:41:24][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:41:24][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:41:24][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 17:41:24][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 17:41:24][INFO] loadWorldData ok
+[2026-04-23 17:41:24][INFO] Vulkan: initVulkan
+[2026-04-23 17:41:24][INFO] Vulkan: createInstance
+[2026-04-23 17:41:24][INFO] Vulkan: createSurface
+[2026-04-23 17:41:24][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 17:41:24][INFO] Vulkan: createLogicalDevice
+[2026-04-23 17:41:24][INFO] Vulkan: createSwapchain
+[2026-04-23 17:41:24][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:41:24][INFO] initVulkan ok
+[2026-04-23 17:56:10][INFO] kkCraft starting
+[2026-04-23 17:56:10][INFO] App::App begin
+[2026-04-23 17:56:10][INFO] initWindow: SDL_Init
+[2026-04-23 17:56:10][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 17:56:10][INFO] initWindow ok
+[2026-04-23 17:56:10][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 17:56:10][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 17:56:10][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 17:56:10][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 17:56:10][INFO] loadWorldData ok
+[2026-04-23 17:56:10][INFO] Vulkan: initVulkan
+[2026-04-23 17:56:10][INFO] Vulkan: createInstance
+[2026-04-23 17:56:10][INFO] Vulkan: createSurface
+[2026-04-23 17:56:10][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 17:56:10][INFO] Vulkan: createLogicalDevice
+[2026-04-23 17:56:10][INFO] Vulkan: createSwapchain
+[2026-04-23 17:56:10][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 17:56:10][INFO] initVulkan ok
+[2026-04-23 17:56:10][INFO] Vulkan: createSwapchain
+[2026-04-23 17:56:10][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:01:51][INFO] kkCraft starting
+[2026-04-23 18:01:51][INFO] App::App begin
+[2026-04-23 18:01:51][INFO] initWindow: SDL_Init
+[2026-04-23 18:01:51][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:01:51][INFO] initWindow ok
+[2026-04-23 18:01:51][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:01:51][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:01:51][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:01:51][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:01:51][INFO] loadWorldData ok
+[2026-04-23 18:01:51][INFO] Vulkan: initVulkan
+[2026-04-23 18:01:51][INFO] Vulkan: createInstance
+[2026-04-23 18:01:51][INFO] Vulkan: createSurface
+[2026-04-23 18:01:51][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:01:51][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:01:51][INFO] Vulkan: createSwapchain
+[2026-04-23 18:01:51][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:01:51][INFO] initVulkan ok
+[2026-04-23 18:01:51][INFO] Vulkan: createSwapchain
+[2026-04-23 18:01:51][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:02:27][INFO] kkCraft starting
+[2026-04-23 18:02:27][INFO] App::App begin
+[2026-04-23 18:02:27][INFO] initWindow: SDL_Init
+[2026-04-23 18:02:27][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:02:27][INFO] initWindow ok
+[2026-04-23 18:02:27][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:02:27][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:02:27][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:02:27][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:02:27][INFO] loadWorldData ok
+[2026-04-23 18:02:27][INFO] Vulkan: initVulkan
+[2026-04-23 18:02:27][INFO] Vulkan: createInstance
+[2026-04-23 18:02:27][INFO] Vulkan: createSurface
+[2026-04-23 18:02:27][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:02:27][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:02:27][INFO] Vulkan: createSwapchain
+[2026-04-23 18:02:27][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:02:27][INFO] initVulkan ok
+[2026-04-23 18:02:27][INFO] Vulkan: createSwapchain
+[2026-04-23 18:02:27][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:00][INFO] kkCraft starting
+[2026-04-23 18:03:00][INFO] App::App begin
+[2026-04-23 18:03:00][INFO] initWindow: SDL_Init
+[2026-04-23 18:03:00][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:03:00][INFO] initWindow ok
+[2026-04-23 18:03:00][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:03:00][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:03:00][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:03:00][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:03:00][INFO] loadWorldData ok
+[2026-04-23 18:03:00][INFO] Vulkan: initVulkan
+[2026-04-23 18:03:00][INFO] Vulkan: createInstance
+[2026-04-23 18:03:00][INFO] Vulkan: createSurface
+[2026-04-23 18:03:00][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:03:00][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:03:00][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:00][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:00][INFO] initVulkan ok
+[2026-04-23 18:03:00][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:00][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:17][INFO] kkCraft starting
+[2026-04-23 18:03:17][INFO] App::App begin
+[2026-04-23 18:03:17][INFO] initWindow: SDL_Init
+[2026-04-23 18:03:17][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:03:17][INFO] initWindow ok
+[2026-04-23 18:03:17][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:03:17][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:03:17][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:03:17][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:03:17][INFO] loadWorldData ok
+[2026-04-23 18:03:17][INFO] Vulkan: initVulkan
+[2026-04-23 18:03:17][INFO] Vulkan: createInstance
+[2026-04-23 18:03:17][INFO] Vulkan: createSurface
+[2026-04-23 18:03:17][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:03:17][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:03:17][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:17][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:17][INFO] initVulkan ok
+[2026-04-23 18:03:17][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:17][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:32][INFO] kkCraft starting
+[2026-04-23 18:03:32][INFO] App::App begin
+[2026-04-23 18:03:32][INFO] initWindow: SDL_Init
+[2026-04-23 18:03:32][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:03:32][INFO] initWindow ok
+[2026-04-23 18:03:32][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:03:32][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:03:32][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:03:32][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:03:32][INFO] loadWorldData ok
+[2026-04-23 18:03:32][INFO] Vulkan: initVulkan
+[2026-04-23 18:03:32][INFO] Vulkan: createInstance
+[2026-04-23 18:03:32][INFO] Vulkan: createSurface
+[2026-04-23 18:03:32][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:03:32][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:03:32][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:32][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:32][INFO] initVulkan ok
+[2026-04-23 18:03:32][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:32][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:48][INFO] kkCraft starting
+[2026-04-23 18:03:48][INFO] App::App begin
+[2026-04-23 18:03:48][INFO] initWindow: SDL_Init
+[2026-04-23 18:03:48][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:03:48][INFO] initWindow ok
+[2026-04-23 18:03:48][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:03:48][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:03:48][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:03:48][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:03:48][INFO] loadWorldData ok
+[2026-04-23 18:03:48][INFO] Vulkan: initVulkan
+[2026-04-23 18:03:48][INFO] Vulkan: createInstance
+[2026-04-23 18:03:48][INFO] Vulkan: createSurface
+[2026-04-23 18:03:48][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:03:48][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:03:48][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:48][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:48][INFO] initVulkan ok
+[2026-04-23 18:03:48][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:48][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:55][INFO] kkCraft starting
+[2026-04-23 18:03:55][INFO] App::App begin
+[2026-04-23 18:03:55][INFO] initWindow: SDL_Init
+[2026-04-23 18:03:55][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 18:03:55][INFO] initWindow ok
+[2026-04-23 18:03:55][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 18:03:55][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 18:03:55][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=1
+[2026-04-23 18:03:55][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 18:03:55][INFO] loadWorldData ok
+[2026-04-23 18:03:55][INFO] Vulkan: initVulkan
+[2026-04-23 18:03:55][INFO] Vulkan: createInstance
+[2026-04-23 18:03:55][INFO] Vulkan: createSurface
+[2026-04-23 18:03:55][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 18:03:55][INFO] Vulkan: createLogicalDevice
+[2026-04-23 18:03:55][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:55][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 18:03:55][INFO] initVulkan ok
+[2026-04-23 18:03:55][INFO] Vulkan: createSwapchain
+[2026-04-23 18:03:55][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 20:51:12][INFO] kkCraft starting
+[2026-04-23 20:51:12][INFO] App::App begin
+[2026-04-23 20:51:12][INFO] initWindow: SDL_Init
+[2026-04-23 20:51:12][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 20:51:12][INFO] initWindow ok
+[2026-04-23 20:51:12][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 20:51:12][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 20:51:12][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-23 20:51:12][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 20:51:12][INFO] loadWorldData ok
+[2026-04-23 20:51:12][INFO] Vulkan: initVulkan
+[2026-04-23 20:51:12][INFO] Vulkan: createInstance
+[2026-04-23 20:51:12][INFO] Vulkan: createSurface
+[2026-04-23 20:51:12][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 20:51:12][INFO] Vulkan: createLogicalDevice
+[2026-04-23 20:51:12][INFO] Vulkan: createSwapchain
+[2026-04-23 20:51:12][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 20:51:12][INFO] initVulkan ok
+[2026-04-23 20:51:12][INFO] Vulkan: createSwapchain
+[2026-04-23 20:51:12][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 20:57:29][INFO] kkCraft starting
+[2026-04-23 20:57:29][INFO] App::App begin
+[2026-04-23 20:57:29][INFO] initWindow: SDL_Init
+[2026-04-23 20:57:29][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 20:57:29][INFO] initWindow ok
+[2026-04-23 20:57:29][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 20:57:29][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 20:57:29][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-23 20:57:29][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 20:57:29][INFO] loadWorldData ok
+[2026-04-23 20:57:29][INFO] Vulkan: initVulkan
+[2026-04-23 20:57:29][INFO] Vulkan: createInstance
+[2026-04-23 20:57:29][INFO] Vulkan: createSurface
+[2026-04-23 20:57:29][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 20:57:29][INFO] Vulkan: createLogicalDevice
+[2026-04-23 20:57:29][INFO] Vulkan: createSwapchain
+[2026-04-23 20:57:29][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 20:57:30][INFO] initVulkan ok
+[2026-04-23 20:57:30][INFO] Vulkan: createSwapchain
+[2026-04-23 20:57:30][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 21:04:46][INFO] kkCraft starting
+[2026-04-23 21:04:46][INFO] App::App begin
+[2026-04-23 21:04:46][INFO] initWindow: SDL_Init
+[2026-04-23 21:04:46][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 21:04:46][INFO] initWindow ok
+[2026-04-23 21:04:46][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 21:04:46][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 21:04:46][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-23 21:04:46][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 21:04:46][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-23 21:04:46][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-23 21:04:46][INFO] loadWorldData ok
+[2026-04-23 21:04:46][INFO] Vulkan: initVulkan
+[2026-04-23 21:04:46][INFO] Vulkan: createInstance
+[2026-04-23 21:04:46][INFO] Vulkan: createSurface
+[2026-04-23 21:04:46][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 21:04:46][INFO] Vulkan: createLogicalDevice
+[2026-04-23 21:04:46][INFO] Vulkan: createSwapchain
+[2026-04-23 21:04:46][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 21:04:46][INFO] initVulkan ok
+[2026-04-23 21:04:46][INFO] Vulkan: createSwapchain
+[2026-04-23 21:04:46][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 21:11:57][INFO] kkCraft starting
+[2026-04-23 21:11:57][INFO] App::App begin
+[2026-04-23 21:11:57][INFO] initWindow: SDL_Init
+[2026-04-23 21:11:57][INFO] initWindow: SDL_CreateWindow
+[2026-04-23 21:11:57][INFO] initWindow ok
+[2026-04-23 21:11:57][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-23 21:11:57][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-23 21:11:57][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-23 21:11:57][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-23 21:11:57][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-23 21:11:57][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-23 21:11:57][INFO] loadWorldData ok
+[2026-04-23 21:11:57][INFO] Vulkan: initVulkan
+[2026-04-23 21:11:57][INFO] Vulkan: createInstance
+[2026-04-23 21:11:57][INFO] Vulkan: createSurface
+[2026-04-23 21:11:57][INFO] Vulkan: pickPhysicalDevice
+[2026-04-23 21:11:57][INFO] Vulkan: createLogicalDevice
+[2026-04-23 21:11:57][INFO] Vulkan: createSwapchain
+[2026-04-23 21:11:57][INFO] Vulkan: createGraphicsPipeline
+[2026-04-23 21:11:57][INFO] initVulkan ok
+[2026-04-23 21:11:57][INFO] Vulkan: createSwapchain
+[2026-04-23 21:11:57][INFO] Vulkan: createGraphicsPipeline

@@ -15,6 +15,11 @@ public:
   struct Vertex {
     float position[3];
     float color[3];
+    float texCoord[2];
+  };
+
+  struct BlockInstance {
+    glm::vec3 position;
   };
 
   App();
@@ -23,9 +28,10 @@ public:
   void run();
 
 private:
-  static const std::array<Vertex, 36> kCubeVertices;
+  std::vector<Vertex> vertices;
+  std::vector<BlockInstance> blocks;
 
-  std::array<Vertex, 36> vertices = kCubeVertices;
+  std::string texturePath; // Path to the texture to load
 
   SDL_Window *window = nullptr;
   VkInstance instance = VK_NULL_HANDLE;
@@ -40,11 +46,21 @@ private:
   std::vector<VkImage> swapchainImages;
   std::vector<VkImageView> swapchainImageViews;
   VkRenderPass renderPass = VK_NULL_HANDLE;
+  VkDescriptorSetLayout descriptorSetLayout = VK_NULL_HANDLE;
   VkPipelineLayout pipelineLayout = VK_NULL_HANDLE;
   VkPipeline graphicsPipeline = VK_NULL_HANDLE;
   VkImage depthImage = VK_NULL_HANDLE;
   VkDeviceMemory depthImageMemory = VK_NULL_HANDLE;
   VkImageView depthImageView = VK_NULL_HANDLE;
+
+  VkImage textureImage = VK_NULL_HANDLE;
+  VkDeviceMemory textureImageMemory = VK_NULL_HANDLE;
+  VkImageView textureImageView = VK_NULL_HANDLE;
+  VkSampler textureSampler = VK_NULL_HANDLE;
+
+  VkDescriptorPool descriptorPool = VK_NULL_HANDLE;
+  std::vector<VkDescriptorSet> descriptorSets;
+
   VkBuffer vertexBuffer = VK_NULL_HANDLE;
   VkDeviceMemory vertexBufferMemory = VK_NULL_HANDLE;
   std::vector<VkFramebuffer> framebuffers;
@@ -68,6 +84,7 @@ private:
 
   static void vkCheck(VkResult result, const char *message);
   static std::vector<char> readBinaryFile(const std::string &path);
+  void loadWorldData();
 
   void initWindow();
   void initVulkan();
@@ -88,17 +105,34 @@ private:
   void createSwapchain();
   void createImageViews();
   void createRenderPass();
+  void createDescriptorSetLayout();
   void createDepthResources();
+  void createTextureImage();
+  void createTextureImageView();
+  void createTextureSampler();
   VkShaderModule createShaderModule(const std::vector<char> &code) const;
   void createGraphicsPipeline();
   void createFramebuffers();
   void createCommandPool();
+  void createDescriptorPool();
+  void createDescriptorSets();
   void createCommandBuffers();
   void createVertexBuffer();
   void createSyncObjects();
   void recordCommandBuffer(VkCommandBuffer commandBuffer,
                            uint32_t imageIndex) const;
   void drawFrame();
+
+  void createImage(uint32_t width, uint32_t height, VkFormat format, VkImageTiling tiling,
+                   VkImageUsageFlags usage, VkMemoryPropertyFlags properties, VkImage &image,
+                   VkDeviceMemory &imageMemory);
+  void transitionImageLayout(VkImage image, VkFormat format, VkImageLayout oldLayout,
+                             VkImageLayout newLayout);
+  void copyBufferToImage(VkBuffer buffer, VkImage image, uint32_t width, uint32_t height);
+  void createBuffer(VkDeviceSize size, VkBufferUsageFlags usage, VkMemoryPropertyFlags properties,
+                    VkBuffer &buffer, VkDeviceMemory &bufferMemory);
+  VkCommandBuffer beginSingleTimeCommands();
+  void endSingleTimeCommands(VkCommandBuffer commandBuffer);
 };
 
 int runApp();
