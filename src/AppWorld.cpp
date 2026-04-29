@@ -32,6 +32,8 @@ struct EntityTypeDef {
 struct BlockDef {
   std::string type;
   std::array<float, 3> position{};
+  float scale = 1.0f;
+  float brightness = 1.0f;
   glz::json_t nbt{};
 };
 
@@ -45,6 +47,44 @@ struct SaveDef {
   WorldDef world;
 };
 
+#if KKCRAFT_HAS_ASSIMP
+void processNode(aiNode *node, const aiScene *scene, const aiMatrix4x4 &parentTransform,
+                 std::vector<App::Vertex> &vertices, float &minX, float &minY, float &minZ,
+                 float &maxX, float &maxY, float &maxZ) {
+  aiMatrix4x4 transform = parentTransform * node->mTransformation;
+
+  for (unsigned int i = 0; i < node->mNumMeshes; ++i) {
+    aiMesh *mesh = scene->mMeshes[node->mMeshes[i]];
+    for (unsigned int f = 0; f < mesh->mNumFaces; ++f) {
+      const aiFace &face = mesh->mFaces[f];
+      for (unsigned int idx = 0; idx < face.mNumIndices; ++idx) {
+        unsigned int vIdx = face.mIndices[idx];
+        aiVector3D p = transform * mesh->mVertices[vIdx];
+
+        minX = std::min(minX, p.x); minY = std::min(minY, p.y); minZ = std::min(minZ, p.z);
+        maxX = std::max(maxX, p.x); maxY = std::max(maxY, p.y); maxZ = std::max(maxZ, p.z);
+
+        float u = 0.0f, v = 0.0f;
+        if (mesh->HasTextureCoords(0)) {
+          u = mesh->mTextureCoords[0][vIdx].x;
+          v = mesh->mTextureCoords[0][vIdx].y;
+        }
+
+        vertices.push_back(App::Vertex{
+            {p.x, p.y, p.z},
+            {1.0f, 1.0f, 1.0f},
+            {u, v}
+        });
+      }
+    }
+  }
+
+  for (unsigned int i = 0; i < node->mNumChildren; ++i) {
+    processNode(node->mChildren[i], scene, transform, vertices, minX, minY, minZ, maxX, maxY, maxZ);
+  }
+}
+#endif
+
 } // namespace
 
 template <>
@@ -56,7 +96,7 @@ struct glz::meta<EntityTypeDef> {
 
 template <> struct glz::meta<BlockDef> {
   using T = BlockDef;
-  static constexpr auto value = object("type", &T::type, "position", &T::position, "nbt", &T::nbt);
+  static constexpr auto value = object("type", &T::type, "position", &T::position, "scale", &T::scale, "brightness", &T::brightness, "nbt", &T::nbt);
 };
 
 template <> struct glz::meta<WorldDef> {
@@ -116,7 +156,7 @@ void App::loadWorldData() {
     entityTypes[entityType.type] = entityType;
   }
 
-  vertices.clear();
+  models.clear();
   blocks.clear();
 
   for (const auto &block : save.world.blocks) {
@@ -126,7 +166,7 @@ void App::loadWorldData() {
       continue;
     }
 
-    if (vertices.empty()) {
+    if (models.find(block.type) == models.end()) {
       const std::filesystem::path modelPath =
           std::filesystem::path("assets/saves") / save.texturepack / "model" / it->second.model;
       if (!std::filesystem::exists(modelPath)) {
@@ -143,7 +183,9 @@ void App::loadWorldData() {
       kk::log_info(std::string("loadWorldData: loading model ") +
                    modelPath.string() + " texture " + texturePath.string());
       
-      this->texturePath = texturePath.string();
+      ModelData modelData{};
+      modelData.modelPath = modelPath.string();
+      modelData.texturePath = texturePath.string();
 
       Assimp::Importer importer;
       const aiScene *scene = importer.ReadFile(
@@ -154,42 +196,49 @@ void App::loadWorldData() {
         throw std::runtime_error("Failed to load model: " + modelPath.string());
       }
 
-      for (unsigned int meshIdx = 0; meshIdx < scene->mNumMeshes; ++meshIdx) {
-        const aiMesh *mesh = scene->mMeshes[meshIdx];
-        for (unsigned int faceIdx = 0; faceIdx < mesh->mNumFaces; ++faceIdx) {
-          const aiFace &face = mesh->mFaces[faceIdx];
-          for (unsigned int idx = 0; idx < face.mNumIndices; ++idx) {
-            const unsigned int vertexIdx = face.mIndices[idx];
-            const aiVector3D p = mesh->mVertices[vertexIdx];
-            
-            float u = 0.0f;
-            float v = 0.0f;
-            if (mesh->HasTextureCoords(0)) {
-              u = mesh->mTextureCoords[0][vertexIdx].x;
-              v = mesh->mTextureCoords[0][vertexIdx].y;
-            }
+      float minX = 1e9, minY = 1e9, minZ = 1e9;
+      float maxX = -1e9, maxY = -1e9, maxZ = -1e9;
 
-            vertices.push_back(Vertex{
-              {p.x, p.y, p.z}, 
-              {1.0f, 1.0f, 1.0f},
-              {u, v}
-            });
-          }
-        }
+      std::vector<Vertex> rawVertices;
+      aiMatrix4x4 identity;
+      processNode(scene->mRootNode, scene, identity, rawVertices, minX, minY, minZ, maxX, maxY, maxZ);
+
+      // Normalize model: center it and scale it to fit in a 1.0 unit box
+      float sizeX = maxX - minX;
+      float sizeY = maxY - minY;
+      float sizeZ = maxZ - minZ;
+      float maxSide = std::max({sizeX, sizeY, sizeZ});
+      if (maxSide < 1e-6f) maxSide = 1.0f;
+      float scale = 1.0f / maxSide;
+      
+      float centerX = (minX + maxX) * 0.5f;
+      float centerY = (minY + maxY) * 0.5f;
+      float centerZ = (minZ + maxZ) * 0.5f;
+
+      for (auto& v : rawVertices) {
+          v.position[0] = (v.position[0] - centerX) * scale;
+          v.position[1] = (v.position[1] - centerY) * scale;
+          v.position[2] = (v.position[2] - centerZ) * scale;
+          modelData.vertices.push_back(v);
       }
+
+      kk::log_info(std::string("loadWorldData: model ") + block.type + " normalized. " +
+                   "Original bounds: [" + std::to_string(minX) + "," + std::to_string(minY) + "," + std::to_string(minZ) + "] to [" +
+                   std::to_string(maxX) + "," + std::to_string(maxY) + "," + std::to_string(maxZ) + "], Scale applied: " + std::to_string(scale));
+      models[block.type] = std::move(modelData);
     }
 
-    kk::log_info(std::string("loadWorldData: adding block instance at [") + 
+    kk::log_info(std::string("loadWorldData: adding instance of ") + block.type + " at [" + 
                  std::to_string(block.position[0]) + ", " + 
                  std::to_string(block.position[1]) + ", " + 
                  std::to_string(block.position[2]) + "]");
 
     blocks.push_back(BlockInstance{
-        glm::vec3(block.position[0], block.position[1], block.position[2])});
+        glm::vec3(block.position[0], block.position[1], block.position[2]), block.type, block.scale, block.brightness});
   }
 
-  if (vertices.empty()) {
-    throw std::runtime_error("No mesh vertices loaded from world definition");
+  if (models.empty()) {
+    throw std::runtime_error("No models loaded from world definition");
   }
   if (blocks.empty()) {
     throw std::runtime_error("No blocks found in world definition");

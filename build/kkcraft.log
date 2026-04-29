@@ -339,3 +339,1342 @@
 [2026-04-23 21:11:57][INFO] initVulkan ok
 [2026-04-23 21:11:57][INFO] Vulkan: createSwapchain
 [2026-04-23 21:11:57][INFO] Vulkan: createGraphicsPipeline
+[2026-04-24 18:18:37][INFO] kkCraft starting
+[2026-04-24 18:18:37][INFO] App::App begin
+[2026-04-24 18:18:37][INFO] initWindow: SDL_Init
+[2026-04-24 18:18:37][INFO] initWindow: SDL_CreateWindow
+[2026-04-24 18:18:37][INFO] initWindow ok
+[2026-04-24 18:18:37][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-24 18:18:37][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-24 18:18:37][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-24 18:18:37][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-24 18:18:37][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-24 18:18:37][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-24 18:18:37][INFO] loadWorldData ok
+[2026-04-24 18:18:37][INFO] Vulkan: initVulkan
+[2026-04-24 18:18:37][INFO] Vulkan: createInstance
+[2026-04-24 18:18:37][INFO] Vulkan: createSurface
+[2026-04-24 18:18:37][INFO] Vulkan: pickPhysicalDevice
+[2026-04-24 18:18:37][INFO] Vulkan: createLogicalDevice
+[2026-04-24 18:18:37][INFO] Vulkan: createSwapchain
+[2026-04-24 18:18:37][INFO] Vulkan: createGraphicsPipeline
+[2026-04-24 18:18:37][INFO] initVulkan ok
+[2026-04-24 18:18:37][INFO] Vulkan: createSwapchain
+[2026-04-24 18:18:37][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:34:02][INFO] kkCraft starting
+[2026-04-25 16:34:02][INFO] App::App begin
+[2026-04-25 16:34:02][INFO] initWindow: SDL_Init
+[2026-04-25 16:34:02][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 16:34:02][INFO] initWindow ok
+[2026-04-25 16:34:02][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 16:34:02][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 16:34:02][INFO] loadWorldData: texturepack=normal entitytypes=1 blocks=2
+[2026-04-25 16:34:02][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 16:34:02][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-25 16:34:02][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-25 16:34:02][INFO] loadWorldData ok
+[2026-04-25 16:34:02][INFO] Vulkan: initVulkan
+[2026-04-25 16:34:02][INFO] Vulkan: createInstance
+[2026-04-25 16:34:03][INFO] Vulkan: createSurface
+[2026-04-25 16:34:03][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 16:34:03][INFO] Vulkan: createLogicalDevice
+[2026-04-25 16:34:03][INFO] Vulkan: createSwapchain
+[2026-04-25 16:34:03][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:34:03][INFO] initVulkan ok
+[2026-04-25 16:34:03][INFO] Vulkan: createSwapchain
+[2026-04-25 16:34:03][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:37:55][INFO] kkCraft starting
+[2026-04-25 16:37:55][INFO] App::App begin
+[2026-04-25 16:37:55][INFO] initWindow: SDL_Init
+[2026-04-25 16:37:55][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 16:37:55][INFO] initWindow ok
+[2026-04-25 16:37:55][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 16:37:55][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 16:37:55][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-25 16:37:55][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 16:37:55][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-25 16:37:55][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-25 16:37:55][INFO] loadWorldData ok
+[2026-04-25 16:37:55][INFO] Vulkan: initVulkan
+[2026-04-25 16:37:55][INFO] Vulkan: createInstance
+[2026-04-25 16:37:55][INFO] Vulkan: createSurface
+[2026-04-25 16:37:55][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 16:37:55][INFO] Vulkan: createLogicalDevice
+[2026-04-25 16:37:55][INFO] Vulkan: createSwapchain
+[2026-04-25 16:37:55][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:37:55][INFO] initVulkan ok
+[2026-04-25 16:37:55][INFO] Vulkan: createSwapchain
+[2026-04-25 16:37:55][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:38:11][INFO] kkCraft starting
+[2026-04-25 16:38:11][INFO] App::App begin
+[2026-04-25 16:38:11][INFO] initWindow: SDL_Init
+[2026-04-25 16:38:11][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 16:38:11][INFO] initWindow ok
+[2026-04-25 16:38:11][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 16:38:11][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 16:38:11][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-25 16:38:11][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 16:38:11][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-25 16:38:11][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-25 16:38:11][INFO] loadWorldData ok
+[2026-04-25 16:38:11][INFO] Vulkan: initVulkan
+[2026-04-25 16:38:11][INFO] Vulkan: createInstance
+[2026-04-25 16:38:11][INFO] Vulkan: createSurface
+[2026-04-25 16:38:11][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 16:38:11][INFO] Vulkan: createLogicalDevice
+[2026-04-25 16:38:11][INFO] Vulkan: createSwapchain
+[2026-04-25 16:38:11][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:38:11][INFO] initVulkan ok
+[2026-04-25 16:38:11][INFO] Vulkan: createSwapchain
+[2026-04-25 16:38:11][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:38:20][INFO] kkCraft starting
+[2026-04-25 16:38:20][INFO] App::App begin
+[2026-04-25 16:38:20][INFO] initWindow: SDL_Init
+[2026-04-25 16:38:20][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 16:38:21][INFO] initWindow ok
+[2026-04-25 16:38:21][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 16:38:21][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 16:38:21][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-25 16:38:21][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 16:38:21][INFO] loadWorldData: adding block instance at [0.000000, 0.000000, 0.000000]
+[2026-04-25 16:38:21][INFO] loadWorldData: adding block instance at [2.000000, 0.000000, 0.000000]
+[2026-04-25 16:38:21][INFO] loadWorldData ok
+[2026-04-25 16:38:21][INFO] Vulkan: initVulkan
+[2026-04-25 16:38:21][INFO] Vulkan: createInstance
+[2026-04-25 16:38:21][INFO] Vulkan: createSurface
+[2026-04-25 16:38:21][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 16:38:21][INFO] Vulkan: createLogicalDevice
+[2026-04-25 16:38:21][INFO] Vulkan: createSwapchain
+[2026-04-25 16:38:21][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 16:38:21][INFO] initVulkan ok
+[2026-04-25 16:38:21][INFO] Vulkan: createSwapchain
+[2026-04-25 16:38:21][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 17:15:06][INFO] kkCraft starting
+[2026-04-25 17:15:06][INFO] App::App begin
+[2026-04-25 17:15:06][INFO] initWindow: SDL_Init
+[2026-04-25 17:15:06][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 17:15:06][INFO] initWindow ok
+[2026-04-25 17:15:06][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 17:15:06][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 17:15:06][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-25 17:15:07][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 17:15:07][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-25 17:15:07][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-25 17:15:07][INFO] loadWorldData: adding instance of sword at [2.000000, 0.000000, 0.000000]
+[2026-04-25 17:15:07][INFO] loadWorldData ok
+[2026-04-25 17:15:07][INFO] Vulkan: initVulkan
+[2026-04-25 17:15:07][INFO] Vulkan: createInstance
+[2026-04-25 17:15:07][INFO] Vulkan: createSurface
+[2026-04-25 17:15:07][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 17:15:07][INFO] Vulkan: createLogicalDevice
+[2026-04-25 17:15:07][INFO] Vulkan: createSwapchain
+[2026-04-25 17:15:07][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 17:15:07][INFO] initVulkan ok
+[2026-04-25 17:15:07][INFO] Vulkan: createSwapchain
+[2026-04-25 17:15:07][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 17:15:34][INFO] kkCraft starting
+[2026-04-25 17:15:34][INFO] App::App begin
+[2026-04-25 17:15:34][INFO] initWindow: SDL_Init
+[2026-04-25 17:15:34][INFO] initWindow: SDL_CreateWindow
+[2026-04-25 17:15:34][INFO] initWindow ok
+[2026-04-25 17:15:34][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-25 17:15:34][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-25 17:15:34][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-25 17:15:34][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-25 17:15:34][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-25 17:15:34][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-25 17:15:34][INFO] loadWorldData: adding instance of sword at [10.000000, 0.000000, 0.000000]
+[2026-04-25 17:15:34][INFO] loadWorldData ok
+[2026-04-25 17:15:34][INFO] Vulkan: initVulkan
+[2026-04-25 17:15:34][INFO] Vulkan: createInstance
+[2026-04-25 17:15:34][INFO] Vulkan: createSurface
+[2026-04-25 17:15:34][INFO] Vulkan: pickPhysicalDevice
+[2026-04-25 17:15:34][INFO] Vulkan: createLogicalDevice
+[2026-04-25 17:15:34][INFO] Vulkan: createSwapchain
+[2026-04-25 17:15:34][INFO] Vulkan: createGraphicsPipeline
+[2026-04-25 17:15:34][INFO] initVulkan ok
+[2026-04-25 17:15:34][INFO] Vulkan: createSwapchain
+[2026-04-25 17:15:34][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:04:03][INFO] kkCraft starting
+[2026-04-28 22:04:03][INFO] App::App begin
+[2026-04-28 22:04:03][INFO] initWindow: SDL_Init
+[2026-04-28 22:04:03][INFO] initWindow: SDL_CreateWindow
+[2026-04-28 22:04:03][INFO] initWindow ok
+[2026-04-28 22:04:03][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-28 22:04:03][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-28 22:04:03][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-28 22:04:03][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-28 22:04:03][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:04:03][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-28 22:04:03][INFO] loadWorldData: adding instance of sword at [10.000000, 0.000000, 0.000000]
+[2026-04-28 22:04:03][INFO] loadWorldData ok
+[2026-04-28 22:04:03][INFO] Vulkan: initVulkan
+[2026-04-28 22:04:03][INFO] Vulkan: createInstance
+[2026-04-28 22:04:04][INFO] Vulkan: createSurface
+[2026-04-28 22:04:04][INFO] Vulkan: pickPhysicalDevice
+[2026-04-28 22:04:04][INFO] Vulkan: createLogicalDevice
+[2026-04-28 22:04:04][INFO] Vulkan: createSwapchain
+[2026-04-28 22:04:04][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:04:04][INFO] initVulkan ok
+[2026-04-28 22:04:04][INFO] Vulkan: createSwapchain
+[2026-04-28 22:04:04][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:17:26][INFO] kkCraft starting
+[2026-04-28 22:17:26][INFO] App::App begin
+[2026-04-28 22:17:26][INFO] initWindow: SDL_Init
+[2026-04-28 22:17:26][INFO] initWindow: SDL_CreateWindow
+[2026-04-28 22:17:26][INFO] initWindow ok
+[2026-04-28 22:17:26][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-28 22:17:26][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-28 22:17:26][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-28 22:17:26][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-28 22:17:26][INFO] loadWorldData: model block normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,1.000000,1.000000], Scale applied: 0.500000
+[2026-04-28 22:17:26][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-28 22:17:26][INFO] loadWorldData: model sword normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,5.516498,1.000000], Scale applied: 0.153457
+[2026-04-28 22:17:26][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] loadWorldData ok
+[2026-04-28 22:17:26][INFO] Vulkan: initVulkan
+[2026-04-28 22:17:26][INFO] Vulkan: createInstance
+[2026-04-28 22:17:26][INFO] Vulkan: createSurface
+[2026-04-28 22:17:26][INFO] Vulkan: pickPhysicalDevice
+[2026-04-28 22:17:26][INFO] Vulkan: createLogicalDevice
+[2026-04-28 22:17:26][INFO] Vulkan: createSwapchain
+[2026-04-28 22:17:26][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:17:26][INFO] initVulkan ok
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] Vulkan: createSwapchain
+[2026-04-28 22:17:26][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:26][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:17:27][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] kkCraft starting
+[2026-04-28 22:20:13][INFO] App::App begin
+[2026-04-28 22:20:13][INFO] initWindow: SDL_Init
+[2026-04-28 22:20:13][INFO] initWindow: SDL_CreateWindow
+[2026-04-28 22:20:13][INFO] initWindow ok
+[2026-04-28 22:20:13][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-28 22:20:13][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-28 22:20:13][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-28 22:20:13][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-28 22:20:13][INFO] loadWorldData: model block normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,1.000000,1.000000], Scale applied: 0.500000
+[2026-04-28 22:20:13][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-28 22:20:13][INFO] loadWorldData: model sword normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,5.516498,1.000000], Scale applied: 0.153457
+[2026-04-28 22:20:13][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] loadWorldData ok
+[2026-04-28 22:20:13][INFO] Vulkan: initVulkan
+[2026-04-28 22:20:13][INFO] Vulkan: createInstance
+[2026-04-28 22:20:13][INFO] Vulkan: createSurface
+[2026-04-28 22:20:13][INFO] Vulkan: pickPhysicalDevice
+[2026-04-28 22:20:13][INFO] Vulkan: createLogicalDevice
+[2026-04-28 22:20:13][INFO] Vulkan: createSwapchain
+[2026-04-28 22:20:13][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:20:13][INFO] initVulkan ok
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] Vulkan: createSwapchain
+[2026-04-28 22:20:13][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:13][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:20:14][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:07][INFO] kkCraft starting
+[2026-04-28 22:21:07][INFO] App::App begin
+[2026-04-28 22:21:07][INFO] initWindow: SDL_Init
+[2026-04-28 22:21:07][INFO] initWindow: SDL_CreateWindow
+[2026-04-28 22:21:08][INFO] initWindow ok
+[2026-04-28 22:21:08][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-28 22:21:08][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-28 22:21:08][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-28 22:21:08][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-28 22:21:08][INFO] loadWorldData: model block normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,1.000000,1.000000], Scale applied: 0.500000
+[2026-04-28 22:21:08][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-28 22:21:08][INFO] loadWorldData: model sword normalized. Original bounds: [-1.000000,-1.000000,-1.000000] to [1.000000,5.516498,1.000000], Scale applied: 0.153457
+[2026-04-28 22:21:08][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] loadWorldData ok
+[2026-04-28 22:21:08][INFO] Vulkan: initVulkan
+[2026-04-28 22:21:08][INFO] Vulkan: createInstance
+[2026-04-28 22:21:08][INFO] Vulkan: createSurface
+[2026-04-28 22:21:08][INFO] Vulkan: pickPhysicalDevice
+[2026-04-28 22:21:08][INFO] Vulkan: createLogicalDevice
+[2026-04-28 22:21:08][INFO] Vulkan: createSwapchain
+[2026-04-28 22:21:08][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:21:08][INFO] initVulkan ok
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] Vulkan: createSwapchain
+[2026-04-28 22:21:08][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:08][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:21:09][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:19][INFO] kkCraft starting
+[2026-04-28 22:28:19][INFO] App::App begin
+[2026-04-28 22:28:19][INFO] initWindow: SDL_Init
+[2026-04-28 22:28:19][INFO] initWindow: SDL_CreateWindow
+[2026-04-28 22:28:20][INFO] initWindow ok
+[2026-04-28 22:28:20][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-28 22:28:20][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-28 22:28:20][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-28 22:28:20][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-28 22:28:20][INFO] loadWorldData: model block normalized. Original bounds: [-100.000000,-100.000015,-100.000015] to [100.000000,100.000015,100.000015], Scale applied: 0.005000
+[2026-04-28 22:28:20][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-28 22:28:20][INFO] loadWorldData: model sword normalized. Original bounds: [-150.000000,-100.000008,-825.412598] to [150.000000,100.000015,50.000023], Scale applied: 0.001142
+[2026-04-28 22:28:20][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] loadWorldData ok
+[2026-04-28 22:28:20][INFO] Vulkan: initVulkan
+[2026-04-28 22:28:20][INFO] Vulkan: createInstance
+[2026-04-28 22:28:20][INFO] Vulkan: createSurface
+[2026-04-28 22:28:20][INFO] Vulkan: pickPhysicalDevice
+[2026-04-28 22:28:20][INFO] Vulkan: createLogicalDevice
+[2026-04-28 22:28:20][INFO] Vulkan: createSwapchain
+[2026-04-28 22:28:20][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:28:20][INFO] initVulkan ok
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] Vulkan: createSwapchain
+[2026-04-28 22:28:20][INFO] Vulkan: createGraphicsPipeline
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:20][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-28 22:28:21][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:22][INFO] kkCraft starting
+[2026-04-29 18:42:22][INFO] App::App begin
+[2026-04-29 18:42:22][INFO] initWindow: SDL_Init
+[2026-04-29 18:42:22][INFO] initWindow: SDL_CreateWindow
+[2026-04-29 18:42:22][INFO] initWindow ok
+[2026-04-29 18:42:22][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-29 18:42:22][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-29 18:42:22][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-29 18:42:22][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-29 18:42:22][INFO] loadWorldData: model block normalized. Original bounds: [-100.000000,-100.000015,-100.000015] to [100.000000,100.000015,100.000015], Scale applied: 0.005000
+[2026-04-29 18:42:22][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:22][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-29 18:42:22][INFO] loadWorldData: model sword normalized. Original bounds: [-150.000000,-100.000008,-825.412598] to [150.000000,100.000015,50.000023], Scale applied: 0.001142
+[2026-04-29 18:42:22][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:22][INFO] loadWorldData ok
+[2026-04-29 18:42:22][INFO] Vulkan: initVulkan
+[2026-04-29 18:42:22][INFO] Vulkan: createInstance
+[2026-04-29 18:42:22][INFO] Vulkan: createSurface
+[2026-04-29 18:42:22][INFO] Vulkan: pickPhysicalDevice
+[2026-04-29 18:42:22][INFO] Vulkan: createLogicalDevice
+[2026-04-29 18:42:22][INFO] Vulkan: createSwapchain
+[2026-04-29 18:42:22][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:42:23][INFO] initVulkan ok
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] Vulkan: createSwapchain
+[2026-04-29 18:42:23][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:23][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:42:24][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] kkCraft starting
+[2026-04-29 18:43:57][INFO] App::App begin
+[2026-04-29 18:43:57][INFO] initWindow: SDL_Init
+[2026-04-29 18:43:57][INFO] initWindow: SDL_CreateWindow
+[2026-04-29 18:43:57][INFO] initWindow ok
+[2026-04-29 18:43:57][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-29 18:43:57][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-29 18:43:57][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-29 18:43:57][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-29 18:43:57][INFO] loadWorldData: model block normalized. Original bounds: [-100.000000,-100.000015,-100.000015] to [100.000000,100.000015,100.000015], Scale applied: 0.005000
+[2026-04-29 18:43:57][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-29 18:43:57][INFO] loadWorldData: model sword normalized. Original bounds: [-150.000000,-100.000008,-825.412598] to [150.000000,100.000015,50.000023], Scale applied: 0.001142
+[2026-04-29 18:43:57][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] loadWorldData ok
+[2026-04-29 18:43:57][INFO] Vulkan: initVulkan
+[2026-04-29 18:43:57][INFO] Vulkan: createInstance
+[2026-04-29 18:43:57][INFO] Vulkan: createSurface
+[2026-04-29 18:43:57][INFO] Vulkan: pickPhysicalDevice
+[2026-04-29 18:43:57][INFO] Vulkan: createLogicalDevice
+[2026-04-29 18:43:57][INFO] Vulkan: createSwapchain
+[2026-04-29 18:43:57][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:43:57][INFO] initVulkan ok
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] Vulkan: createSwapchain
+[2026-04-29 18:43:57][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:57][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:43:58][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:19][INFO] kkCraft starting
+[2026-04-29 18:44:19][INFO] App::App begin
+[2026-04-29 18:44:19][INFO] initWindow: SDL_Init
+[2026-04-29 18:44:19][INFO] initWindow: SDL_CreateWindow
+[2026-04-29 18:44:19][INFO] initWindow ok
+[2026-04-29 18:44:19][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-29 18:44:19][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-29 18:44:19][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-29 18:44:19][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-29 18:44:19][INFO] loadWorldData: model block normalized. Original bounds: [-100.000000,-100.000015,-100.000015] to [100.000000,100.000015,100.000015], Scale applied: 0.005000
+[2026-04-29 18:44:19][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:19][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-29 18:44:19][INFO] loadWorldData: model sword normalized. Original bounds: [-150.000000,-100.000008,-825.412598] to [150.000000,100.000015,50.000023], Scale applied: 0.001142
+[2026-04-29 18:44:19][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:19][INFO] loadWorldData ok
+[2026-04-29 18:44:19][INFO] Vulkan: initVulkan
+[2026-04-29 18:44:19][INFO] Vulkan: createInstance
+[2026-04-29 18:44:19][INFO] Vulkan: createSurface
+[2026-04-29 18:44:19][INFO] Vulkan: pickPhysicalDevice
+[2026-04-29 18:44:19][INFO] Vulkan: createLogicalDevice
+[2026-04-29 18:44:19][INFO] Vulkan: createSwapchain
+[2026-04-29 18:44:19][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:44:20][INFO] initVulkan ok
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] Vulkan: createSwapchain
+[2026-04-29 18:44:20][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:20][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 18:44:21][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] kkCraft starting
+[2026-04-29 19:04:47][INFO] App::App begin
+[2026-04-29 19:04:47][INFO] initWindow: SDL_Init
+[2026-04-29 19:04:47][INFO] initWindow: SDL_CreateWindow
+[2026-04-29 19:04:47][INFO] initWindow ok
+[2026-04-29 19:04:47][INFO] loadWorldData: scanning assets/saves for world.json
+[2026-04-29 19:04:47][INFO] loadWorldData: using assets/saves\normal\world\world.json
+[2026-04-29 19:04:47][INFO] loadWorldData: texturepack=normal entitytypes=2 blocks=2
+[2026-04-29 19:04:47][INFO] loadWorldData: loading model assets/saves\normal\model\cube.fbx texture assets/saves\normal\texture\normal\cube.png
+[2026-04-29 19:04:47][INFO] loadWorldData: model block normalized. Original bounds: [-100.000000,-100.000015,-100.000015] to [100.000000,100.000015,100.000015], Scale applied: 0.005000
+[2026-04-29 19:04:47][INFO] loadWorldData: adding instance of block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] loadWorldData: loading model assets/saves\normal\model\sword.fbx texture assets/saves\normal\texture\normal\sword.png
+[2026-04-29 19:04:47][INFO] loadWorldData: model sword normalized. Original bounds: [-150.000000,-100.000008,-825.412598] to [150.000000,100.000015,50.000023], Scale applied: 0.001142
+[2026-04-29 19:04:47][INFO] loadWorldData: adding instance of sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] loadWorldData ok
+[2026-04-29 19:04:47][INFO] Vulkan: initVulkan
+[2026-04-29 19:04:47][INFO] Vulkan: createInstance
+[2026-04-29 19:04:47][INFO] Vulkan: createSurface
+[2026-04-29 19:04:47][INFO] Vulkan: pickPhysicalDevice
+[2026-04-29 19:04:47][INFO] Vulkan: createLogicalDevice
+[2026-04-29 19:04:47][INFO] Vulkan: createSwapchain
+[2026-04-29 19:04:47][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 19:04:47][INFO] initVulkan ok
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 0 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 0 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] Vulkan: createSwapchain
+[2026-04-29 19:04:47][INFO] Vulkan: createGraphicsPipeline
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 1 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 1 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 2 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 2 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 3 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 3 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 4 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 4 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 5 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 5 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 6 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 6 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 7 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 7 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 8 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 8 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 9 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 9 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 10 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:47][INFO] recordCommandBuffer: frame 10 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 11 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 11 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 12 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 12 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 13 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 13 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 14 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 14 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 15 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 15 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 16 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 16 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 17 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 17 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 18 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 18 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 19 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 19 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 20 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 20 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 21 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 21 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 22 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 22 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 23 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 23 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 24 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 24 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 25 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 25 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 26 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 26 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 27 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 27 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 28 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 28 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 29 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 29 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 30 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 30 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 31 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 31 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 32 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 32 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 33 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 33 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 34 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 34 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 35 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 35 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 36 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 36 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 37 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 37 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 38 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 38 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 39 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 39 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 40 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 40 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 41 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 41 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 42 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 42 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 43 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 43 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 44 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 44 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 45 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 45 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 46 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 46 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 47 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 47 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 48 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 48 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 49 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 49 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 50 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 50 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 51 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 51 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 52 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 52 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 53 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 53 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 54 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 54 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 55 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 55 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 56 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 56 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 57 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 57 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 58 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 58 drawing sword at [1.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 59 drawing block at [0.000000, 0.000000, 0.000000]
+[2026-04-29 19:04:48][INFO] recordCommandBuffer: frame 59 drawing sword at [1.000000, 0.000000, 0.000000]

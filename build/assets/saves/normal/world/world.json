@@ -5,6 +5,11 @@
             "type": "block",
             "model": "cube.fbx",
             "texture": "cube.png"
+        },
+        {
+            "type": "sword",
+            "model": "sword.fbx",
+            "texture": "sword.png"
         }
     ],
 
@@ -13,12 +18,15 @@
             {
                 "type": "block",
                 "position": [0, 0, 0],
+                "brightness": 1.0,
                 "nbt": {
                 }
             },
             {
-                "type": "block",
-                "position": [2, 0, 0],
+                "type": "sword",
+                "position": [1, 0, 0],
+                "scale": 2.0,
+                "brightness": 2.5,
                 "nbt": {
                 }
             }

@@ -18,8 +18,29 @@ public:
     float texCoord[2];
   };
 
+  struct PushConstants {
+    glm::mat4 mvp;
+    float brightness;
+  };
+
+  struct ModelData {
+    std::string modelPath;
+    std::string texturePath;
+    std::vector<Vertex> vertices;
+    
+    VkImage textureImage = VK_NULL_HANDLE;
+    VkDeviceMemory textureImageMemory = VK_NULL_HANDLE;
+    VkImageView textureImageView = VK_NULL_HANDLE;
+    VkBuffer vertexBuffer = VK_NULL_HANDLE;
+    VkDeviceMemory vertexBufferMemory = VK_NULL_HANDLE;
+    VkDescriptorSet descriptorSet = VK_NULL_HANDLE;
+  };
+
   struct BlockInstance {
     glm::vec3 position;
+    std::string modelType;
+    float scale = 1.0f;
+    float brightness = 1.0f;
   };
 
   App();
@@ -28,10 +49,8 @@ public:
   void run();
 
 private:
-  std::vector<Vertex> vertices;
+  std::unordered_map<std::string, ModelData> models;
   std::vector<BlockInstance> blocks;
-
-  std::string texturePath; // Path to the texture to load
 
   SDL_Window *window = nullptr;
   VkInstance instance = VK_NULL_HANDLE;
@@ -53,16 +72,9 @@ private:
   VkDeviceMemory depthImageMemory = VK_NULL_HANDLE;
   VkImageView depthImageView = VK_NULL_HANDLE;
 
-  VkImage textureImage = VK_NULL_HANDLE;
-  VkDeviceMemory textureImageMemory = VK_NULL_HANDLE;
-  VkImageView textureImageView = VK_NULL_HANDLE;
   VkSampler textureSampler = VK_NULL_HANDLE;
 
   VkDescriptorPool descriptorPool = VK_NULL_HANDLE;
-  std::vector<VkDescriptorSet> descriptorSets;
-
-  VkBuffer vertexBuffer = VK_NULL_HANDLE;
-  VkDeviceMemory vertexBufferMemory = VK_NULL_HANDLE;
   std::vector<VkFramebuffer> framebuffers;
   VkCommandPool commandPool = VK_NULL_HANDLE;
   std::vector<VkCommandBuffer> commandBuffers;
@@ -107,17 +119,17 @@ private:
   void createRenderPass();
   void createDescriptorSetLayout();
   void createDepthResources();
-  void createTextureImage();
-  void createTextureImageView();
+  void createTextureImage(ModelData &model);
+  void createTextureImageView(ModelData &model);
   void createTextureSampler();
   VkShaderModule createShaderModule(const std::vector<char> &code) const;
   void createGraphicsPipeline();
   void createFramebuffers();
   void createCommandPool();
   void createDescriptorPool();
-  void createDescriptorSets();
+  void createDescriptorSets(ModelData &model);
   void createCommandBuffers();
-  void createVertexBuffer();
+  void createVertexBuffer(ModelData &model);
   void createSyncObjects();
   void recordCommandBuffer(VkCommandBuffer commandBuffer,
                            uint32_t imageIndex) const;
